@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2021
 client: Start Bootstrap
 category: Web Development
-description: We aim to devolp a decision support system that can be used by civilians. The team consists of the scrum master Axel Forshällen the product owner Max Engman and the devolopers Dana Ismail, Malin Hall, Rebecka Gustavson, Gustav Kasche, Håkan Selamanci and Marcus Samuelsson. <p hfer="https://gits-15.sys.kth.se/axelfors/ICT2021-Baryon">https://gits-15.sys.kth.se/axelfors/ICT2021-Baryon</p>
+description: We aim to devolp a decision support system that can be used by civilians. The team consists of the scrum master Axel Forshällen the product owner Max Engman and the devolopers Dana Ismail, Malin Hall, Rebecka Gustavson, Gustav Kasche, Håkan Selamanci and Marcus Samuelsson. <p href="https://gits-15.sys.kth.se/axelfors/ICT2021-Baryon">https://gits-15.sys.kth.se/axelfors/ICT2021-Baryon</p>
 ---
