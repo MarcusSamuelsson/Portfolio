@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: We aim to devolp a decision support system that can be used by civilians. The team consists of the scrum master Axel Forshällen the product owner Max Engman and the devolopers Dana Ismail, Malin Hall, Rebecka Gustavson, Gustav Kasche, Håkan Selamanci and Marcus Samuelsson. https://gits-15.sys.kth.se/axelfors/ICT2021-Baryon
 ---
